@@ -1,0 +1,11 @@
+name: AdvancedMending
+main: me.yourname.mending.Main
+version: 1.0
+
+commands:
+  mending:
+    usage: /mending give <player>
+
+permissions:
+  mending.give:
+    default: op
